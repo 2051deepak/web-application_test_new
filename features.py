@@ -4,6 +4,8 @@ def add(*args) -> int:
 
 print(add(4, 3, 2, 5))
 
+print("new function")
+
 
 def subtract(*args) -> int:
     subtract = args[0]
